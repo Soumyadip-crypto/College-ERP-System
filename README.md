@@ -1,5 +1,5 @@
 # College-ERP-System
-#Soumyadip Parui ## College-ERP-System : The college ERP is a comprehensive software application
+#Soumyadip Parui # College-ERP-System : The college ERP is a comprehensive software application
 designed to streamline and manage various
 college activities, such as admissions, attendance, fee, automates,administrative tasks,payments, and,resource management..
 
